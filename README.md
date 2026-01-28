@@ -1,5 +1,9 @@
 ## Fintech Customer Analytics Dashboard
 
+#  Fintech Customer Analytics Dashboard
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanwar98anupama/fintech-customer-analytics/blob/main/fintech_customer_analytics.ipynb)
+
 A comprehensive customer analytics system for fintech companies using Python. This project analyzes transaction patterns, segments customers, predicts churn, and calculates lifetime value to drive data-driven business decisions.
 
 ##  Project Overview
