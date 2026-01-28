@@ -102,7 +102,7 @@ I'm a data analyst specializing in fintech analytics with a focus on customer be
 
 ##  Contact
 
-- **LinkedIn**: https://www.linkedin.com/in/anupama-rathod/
+- **LinkedIn**: [linkedin.com/in/anupama-rathod](https://www.linkedin.com/in/anupama-rathod/)
 - **Email**: tanwar98anupama@gmail.com
 - **Portfolio**: https://github.com/tanwar98anupama
 
