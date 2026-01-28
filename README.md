@@ -1,6 +1,6 @@
-## Fintech Customer Analytics Dashboard
+# Fintech Customer Analytics Dashboard
 
-#  Fintech Customer Analytics Dashboard
+## Fintech Customer Analytics Dashboard- open in google colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanwar98anupama/fintech-customer-analytics/blob/main/fintech_customer_analytics.ipynb)
 
