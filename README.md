@@ -70,8 +70,9 @@ jupyter notebook fintech_customer_analytics.ipynb
 ```
 fintech-customer-analytics/
 │
-├── fintech_customer_analytics.ipynb    # Main analysis notebook
-└── README.md                            # Project documentation
+├── fintech_customer_analytics_updated.ipynb    # Main analysis notebook
+└── README.md                                   # Project documentation
+└── other_files                                 #project visualizations 
 ```
 
 ##  Key Learnings
