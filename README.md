@@ -42,7 +42,7 @@ This analysis enables:
 ##  Sample Visualizations
 
 ### Customer Segmentation Distribution
-![Customer Segments](Segment_chart.png)
+![Customer Segments](segment_chart.png)
 
 ### Customer Lifetime Value by Segment
 ![CLV Analysis](clv_chart.png)
