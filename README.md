@@ -41,11 +41,14 @@ This analysis enables:
 
 ##  Sample Visualizations
 
-The project includes:
-- Customer segment distribution pie charts
-- CLV analysis by segment
-- Churn risk vs customer value scatter plots
-- Cohort retention heatmaps
+### Customer Segmentation Distribution
+![Customer Segments](Segment_chart.png)
+
+### Customer Lifetime Value by Segment
+![CLV Analysis](clv_chart.png)
+
+### Cohort Retention Heatmap
+![Cohort Analysis](cohort_heatmap.png)
 
 ##  How to Run
 
